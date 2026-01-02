@@ -1,0 +1,405 @@
+[
+  {
+    "anio_cohorte": 2024,
+    "codigo_sede": 4,
+    "nombre_sede": "VALPARAISO",
+    "jornada": "Diurna",
+    "secciones": {
+      "1446111": 1,
+      "1446116": 2,
+      "1446117": 0,
+      "1446118": 0,
+      "1446119": 0
+    }
+  },
+  {
+    "anio_cohorte": 2024,
+    "codigo_sede": 4,
+    "nombre_sede": "VALPARAISO",
+    "jornada": "Vespertina",
+    "secciones": {
+      "1446111": 0,
+      "1446116": 1,
+      "1446117": 0,
+      "1446118": 0,
+      "1446119": 0
+    }
+  },
+  {
+    "anio_cohorte": 2024,
+    "codigo_sede": 5,
+    "nombre_sede": "CONCEPCIÓN",
+    "jornada": "Diurna",
+    "secciones": {
+      "1446111": 1,
+      "1446116": 3,
+      "1446117": 0,
+      "1446118": 1,
+      "1446119": 0
+    }
+  },
+  {
+    "anio_cohorte": 2024,
+    "codigo_sede": 6,
+    "nombre_sede": "VIÑA DEL MAR",
+    "jornada": "Diurna",
+    "secciones": {
+      "1446111": 2,
+      "1446116": 4,
+      "1446117": 1,
+      "1446118": 2,
+      "1446119": 0
+    }
+  },
+  {
+    "anio_cohorte": 2024,
+    "codigo_sede": 6,
+    "nombre_sede": "VIÑA DEL MAR",
+    "jornada": "Vespertina",
+    "secciones": {
+      "1446111": 1,
+      "1446116": 1,
+      "1446117": 0,
+      "1446118": 0,
+      "1446119": 0
+    }
+  },
+  {
+    "anio_cohorte": 2024,
+    "codigo_sede": 8,
+    "nombre_sede": "ANTONIO VARAS",
+    "jornada": "Diurna",
+    "secciones": {
+      "1446111": 2,
+      "1446116": 4,
+      "1446117": 1,
+      "1446118": 2,
+      "1446119": 2
+    }
+  },
+  {
+    "anio_cohorte": 2024,
+    "codigo_sede": 8,
+    "nombre_sede": "ANTONIO VARAS",
+    "jornada": "Vespertina",
+    "secciones": {
+      "1446111": 0,
+      "1446116": 2,
+      "1446117": 0,
+      "1446118": 1,
+      "1446119": 1
+    }
+  },
+  {
+    "anio_cohorte": 2024,
+    "codigo_sede": 9,
+    "nombre_sede": "SAN CARLOS DE APOQUINDO",
+    "jornada": "Diurna",
+    "secciones": {
+      "1446111": 1,
+      "1446116": 2,
+      "1446117": 0,
+      "1446118": 0,
+      "1446119": 0
+    }
+  },
+  {
+    "anio_cohorte": 2024,
+    "codigo_sede": 9,
+    "nombre_sede": "SAN CARLOS DE APOQUINDO",
+    "jornada": "Vespertina",
+    "secciones": {
+      "1446111": 0,
+      "1446116": 1,
+      "1446117": 0,
+      "1446118": 0,
+      "1446119": 0
+    }
+  },
+  {
+    "anio_cohorte": 2024,
+    "codigo_sede": 10,
+    "nombre_sede": "ALAMEDA",
+    "jornada": "Diurna",
+    "secciones": {
+      "1446111": 0,
+      "1446116": 2,
+      "1446117": 0,
+      "1446118": 0,
+      "1446119": 0
+    }
+  },
+  {
+    "anio_cohorte": 2024,
+    "codigo_sede": 10,
+    "nombre_sede": "ALAMEDA",
+    "jornada": "Vespertina",
+    "secciones": {
+      "1446111": 0,
+      "1446116": 2,
+      "1446117": 0,
+      "1446118": 0,
+      "1446119": 0
+    }
+  },
+  {
+    "anio_cohorte": 2024,
+    "codigo_sede": 11,
+    "nombre_sede": "PLAZA VESPUCIO",
+    "jornada": "Diurna",
+    "secciones": {
+      "1446111": 0,
+      "1446116": 4,
+      "1446117": 1,
+      "1446118": 0,
+      "1446119": 1
+    }
+  },
+  {
+    "anio_cohorte": 2024,
+    "codigo_sede": 11,
+    "nombre_sede": "PLAZA VESPUCIO",
+    "jornada": "Vespertina",
+    "secciones": {
+      "1446111": 0,
+      "1446116": 2,
+      "1446117": 1,
+      "1446118": 0,
+      "1446119": 0
+    }
+  },
+  {
+    "anio_cohorte": 2024,
+    "codigo_sede": 12,
+    "nombre_sede": "PLAZA OESTE",
+    "jornada": "Diurna",
+    "secciones": {
+      "1446111": 1,
+      "1446116": 2,
+      "1446117": 0,
+      "1446118": 0,
+      "1446119": 0
+    }
+  },
+  {
+    "anio_cohorte": 2024,
+    "codigo_sede": 12,
+    "nombre_sede": "PLAZA OESTE",
+    "jornada": "Vespertina",
+    "secciones": {
+      "1446111": 0,
+      "1446116": 1,
+      "1446117": 0,
+      "1446118": 0,
+      "1446119": 0
+    }
+  },
+  {
+    "anio_cohorte": 2024,
+    "codigo_sede": 13,
+    "nombre_sede": "PUENTE ALTO",
+    "jornada": "Diurna",
+    "secciones": {
+      "1446111": 0,
+      "1446116": 4,
+      "1446117": 0,
+      "1446118": 0,
+      "1446119": 0
+    }
+  },
+  {
+    "anio_cohorte": 2024,
+    "codigo_sede": 13,
+    "nombre_sede": "PUENTE ALTO",
+    "jornada": "Vespertina",
+    "secciones": {
+      "1446111": 0,
+      "1446116": 2,
+      "1446117": 0,
+      "1446118": 0,
+      "1446119": 0
+    }
+  },
+  {
+    "anio_cohorte": 2024,
+    "codigo_sede": 14,
+    "nombre_sede": "MAIPÚ",
+    "jornada": "Diurna",
+    "secciones": {
+      "1446111": 1,
+      "1446116": 5,
+      "1446117": 0,
+      "1446118": 1,
+      "1446119": 0
+    }
+  },
+  {
+    "anio_cohorte": 2024,
+    "codigo_sede": 14,
+    "nombre_sede": "MAIPÚ",
+    "jornada": "Vespertina",
+    "secciones": {
+      "1446111": 0,
+      "1446116": 2,
+      "1446117": 0,
+      "1446118": 1,
+      "1446119": 0
+    }
+  },
+  {
+    "anio_cohorte": 2024,
+    "codigo_sede": 16,
+    "nombre_sede": "SAN JOAQUIN",
+    "jornada": "Diurna",
+    "secciones": {
+      "1446111": 1,
+      "1446116": 3,
+      "1446117": 0,
+      "1446118": 2,
+      "1446119": 0
+    }
+  },
+  {
+    "anio_cohorte": 2024,
+    "codigo_sede": 16,
+    "nombre_sede": "SAN JOAQUIN",
+    "jornada": "Vespertina",
+    "secciones": {
+      "1446111": 0,
+      "1446116": 2,
+      "1446117": 0,
+      "1446118": 0,
+      "1446119": 0
+    }
+  },
+  {
+    "anio_cohorte": 2024,
+    "codigo_sede": 18,
+    "nombre_sede": "SAN BERNARDO",
+    "jornada": "Diurna",
+    "secciones": {
+      "1446111": 2,
+      "1446116": 3,
+      "1446117": 1,
+      "1446118": 0,
+      "1446119": 0
+    }
+  },
+  {
+    "anio_cohorte": 2024,
+    "codigo_sede": 18,
+    "nombre_sede": "SAN BERNARDO",
+    "jornada": "Vespertina",
+    "secciones": {
+      "1446111": 0,
+      "1446116": 1,
+      "1446117": 0,
+      "1446118": 0,
+      "1446119": 0
+    }
+  },
+  {
+    "anio_cohorte": 2024,
+    "codigo_sede": 19,
+    "nombre_sede": "PLAZA NORTE",
+    "jornada": "Diurna",
+    "secciones": {
+      "1446111": 0,
+      "1446116": 2,
+      "1446117": 1,
+      "1446118": 1,
+      "1446119": 0
+    }
+  },
+  {
+    "anio_cohorte": 2024,
+    "codigo_sede": 19,
+    "nombre_sede": "PLAZA NORTE",
+    "jornada": "Vespertina",
+    "secciones": {
+      "1446111": 0,
+      "1446116": 2,
+      "1446117": 0,
+      "1446118": 0,
+      "1446119": 0
+    }
+  },
+  {
+    "anio_cohorte": 2024,
+    "codigo_sede": 75,
+    "nombre_sede": "MELIPILLA",
+    "jornada": "Diurna",
+    "secciones": {
+      "1446111": 0,
+      "1446116": 2,
+      "1446117": 0,
+      "1446118": 1,
+      "1446119": 1
+    }
+  },
+  {
+    "anio_cohorte": 2024,
+    "codigo_sede": 75,
+    "nombre_sede": "MELIPILLA",
+    "jornada": "Vespertina",
+    "secciones": {
+      "1446111": 0,
+      "1446116": 1,
+      "1446117": 0,
+      "1446118": 0,
+      "1446119": 0
+    }
+  },
+  {
+    "anio_cohorte": 2024,
+    "codigo_sede": 76,
+    "nombre_sede": "PUERTO MONTT",
+    "jornada": "Diurna",
+    "secciones": {
+      "1446111": 0,
+      "1446116": 2,
+      "1446117": 0,
+      "1446118": 1,
+      "1446119": 0
+    }
+  },
+  {
+    "anio_cohorte": 2024,
+    "codigo_sede": 76,
+    "nombre_sede": "PUERTO MONTT",
+    "jornada": "Vespertina",
+    "secciones": {
+      "1446111": 0,
+      "1446116": 1,
+      "1446117": 0,
+      "1446118": 0,
+      "1446119": 0
+    }
+  },
+  {
+    "anio_cohorte": 2024,
+    "codigo_sede": 79,
+    "nombre_sede": "PADRE ALONSO DE OVALLE",
+    "jornada": "Diurna",
+    "secciones": {
+      "1446111": 1,
+      "1446116": 3,
+      "1446117": 0,
+      "1446118": 1,
+      "1446119": 0
+    }
+  },
+  {
+    "anio_cohorte": 2024,
+    "codigo_sede": 79,
+    "nombre_sede": "PADRE ALONSO DE OVALLE",
+    "jornada": "Vespertina",
+    "secciones": {
+      "1446111": 0,
+      "1446116": 1,
+      "1446117": 0,
+      "1446118": 1,
+      "1446119": 0
+    }
+  }
+]
