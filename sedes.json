@@ -1,0 +1,66 @@
+[
+  {
+    "codigo_sede": 10,
+    "nombre_sede": "ALAMEDA"
+  },
+  {
+    "codigo_sede": 5,
+    "nombre_sede": "CONCEPCIÓN"
+  },
+  {
+    "codigo_sede": 14,
+    "nombre_sede": "MAIPÚ"
+  },
+  {
+    "codigo_sede": 75,
+    "nombre_sede": "MELIPILLA"
+  },
+  {
+    "codigo_sede": 79,
+    "nombre_sede": "PADRE ALONSO DE OVALLE"
+  },
+  {
+    "codigo_sede": 19,
+    "nombre_sede": "PLAZA NORTE"
+  },
+  {
+    "codigo_sede": 12,
+    "nombre_sede": "PLAZA OESTE"
+  },
+  {
+    "codigo_sede": 76,
+    "nombre_sede": "PUERTO MONTT"
+  },
+  {
+    "codigo_sede": 18,
+    "nombre_sede": "SAN BERNARDO"
+  },
+  {
+    "codigo_sede": 9,
+    "nombre_sede": "SAN CARLOS DE APOQUINDO"
+  },
+  {
+    "codigo_sede": 16,
+    "nombre_sede": "SAN JOAQUIN"
+  },
+  {
+    "codigo_sede": 4,
+    "nombre_sede": "VALPARAISO"
+  },
+  {
+    "codigo_sede": 6,
+    "nombre_sede": "VIÑA DEL MAR"
+  },
+  {
+    "codigo_sede": 8,
+    "nombre_sede": "ANTONIO VARAS"
+  },
+  {
+    "codigo_sede": 11,
+    "nombre_sede": "PLAZA VESPUCIO"
+  },
+  {
+    "codigo_sede": 13,
+    "nombre_sede": "PUENTE ALTO"
+  }
+]
