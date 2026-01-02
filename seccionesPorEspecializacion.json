@@ -1,0 +1,839 @@
+[
+  {
+    "codigo_sede": 4,
+    "nombre_sede": "VALPARAISO",
+    "jornada": "Diurna",
+    "especialidades": {
+      "1446111": {
+        "inscritos": 26,
+        "secciones": 1
+      },
+      "1446116": {
+        "inscritos": 45,
+        "secciones": 2
+      },
+      "1446117": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446118": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446119": {
+        "inscritos": 0,
+        "secciones": 0
+      }
+    }
+  },
+  {
+    "codigo_sede": 4,
+    "nombre_sede": "VALPARAISO",
+    "jornada": "Vespertina",
+    "especialidades": {
+      "1446111": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446116": {
+        "inscritos": 22,
+        "secciones": 1
+      },
+      "1446117": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446118": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446119": {
+        "inscritos": 0,
+        "secciones": 0
+      }
+    }
+  },
+  {
+    "codigo_sede": 5,
+    "nombre_sede": "CONCEPCIÓN",
+    "jornada": "Diurna",
+    "especialidades": {
+      "1446111": {
+        "inscritos": 21,
+        "secciones": 1
+      },
+      "1446116": {
+        "inscritos": 61,
+        "secciones": 3
+      },
+      "1446117": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446118": {
+        "inscritos": 30,
+        "secciones": 1
+      },
+      "1446119": {
+        "inscritos": 0,
+        "secciones": 0
+      }
+    }
+  },
+  {
+    "codigo_sede": 6,
+    "nombre_sede": "VIÑA DEL MAR",
+    "jornada": "Diurna",
+    "especialidades": {
+      "1446111": {
+        "inscritos": 43,
+        "secciones": 2
+      },
+      "1446116": {
+        "inscritos": 97,
+        "secciones": 4
+      },
+      "1446117": {
+        "inscritos": 23,
+        "secciones": 1
+      },
+      "1446118": {
+        "inscritos": 33,
+        "secciones": 2
+      },
+      "1446119": {
+        "inscritos": 0,
+        "secciones": 0
+      }
+    }
+  },
+  {
+    "codigo_sede": 6,
+    "nombre_sede": "VIÑA DEL MAR",
+    "jornada": "Vespertina",
+    "especialidades": {
+      "1446111": {
+        "inscritos": 18,
+        "secciones": 1
+      },
+      "1446116": {
+        "inscritos": 27,
+        "secciones": 1
+      },
+      "1446117": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446118": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446119": {
+        "inscritos": 0,
+        "secciones": 0
+      }
+    }
+  },
+  {
+    "codigo_sede": 8,
+    "nombre_sede": "ANTONIO VARAS",
+    "jornada": "Diurna",
+    "especialidades": {
+      "1446111": {
+        "inscritos": 34,
+        "secciones": 2
+      },
+      "1446116": {
+        "inscritos": 95,
+        "secciones": 4
+      },
+      "1446117": {
+        "inscritos": 23,
+        "secciones": 1
+      },
+      "1446118": {
+        "inscritos": 38,
+        "secciones": 2
+      },
+      "1446119": {
+        "inscritos": 36,
+        "secciones": 2
+      }
+    }
+  },
+  {
+    "codigo_sede": 8,
+    "nombre_sede": "ANTONIO VARAS",
+    "jornada": "Vespertina",
+    "especialidades": {
+      "1446111": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446116": {
+        "inscritos": 55,
+        "secciones": 2
+      },
+      "1446117": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446118": {
+        "inscritos": 17,
+        "secciones": 1
+      },
+      "1446119": {
+        "inscritos": 17,
+        "secciones": 1
+      }
+    }
+  },
+  {
+    "codigo_sede": 9,
+    "nombre_sede": "SAN CARLOS DE APOQUINDO",
+    "jornada": "Diurna",
+    "especialidades": {
+      "1446111": {
+        "inscritos": 24,
+        "secciones": 1
+      },
+      "1446116": {
+        "inscritos": 38,
+        "secciones": 2
+      },
+      "1446117": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446118": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446119": {
+        "inscritos": 0,
+        "secciones": 0
+      }
+    }
+  },
+  {
+    "codigo_sede": 9,
+    "nombre_sede": "SAN CARLOS DE APOQUINDO",
+    "jornada": "Vespertina",
+    "especialidades": {
+      "1446111": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446116": {
+        "inscritos": 11,
+        "secciones": 1
+      },
+      "1446117": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446118": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446119": {
+        "inscritos": 0,
+        "secciones": 0
+      }
+    }
+  },
+  {
+    "codigo_sede": 10,
+    "nombre_sede": "ALAMEDA",
+    "jornada": "Diurna",
+    "especialidades": {
+      "1446111": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446116": {
+        "inscritos": 58,
+        "secciones": 2
+      },
+      "1446117": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446118": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446119": {
+        "inscritos": 0,
+        "secciones": 0
+      }
+    }
+  },
+  {
+    "codigo_sede": 10,
+    "nombre_sede": "ALAMEDA",
+    "jornada": "Vespertina",
+    "especialidades": {
+      "1446111": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446116": {
+        "inscritos": 38,
+        "secciones": 2
+      },
+      "1446117": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446118": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446119": {
+        "inscritos": 0,
+        "secciones": 0
+      }
+    }
+  },
+  {
+    "codigo_sede": 11,
+    "nombre_sede": "PLAZA VESPUCIO",
+    "jornada": "Diurna",
+    "especialidades": {
+      "1446111": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446116": {
+        "inscritos": 91,
+        "secciones": 4
+      },
+      "1446117": {
+        "inscritos": 17,
+        "secciones": 1
+      },
+      "1446118": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446119": {
+        "inscritos": 18,
+        "secciones": 1
+      }
+    }
+  },
+  {
+    "codigo_sede": 11,
+    "nombre_sede": "PLAZA VESPUCIO",
+    "jornada": "Vespertina",
+    "especialidades": {
+      "1446111": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446116": {
+        "inscritos": 31,
+        "secciones": 2
+      },
+      "1446117": {
+        "inscritos": 26,
+        "secciones": 1
+      },
+      "1446118": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446119": {
+        "inscritos": 0,
+        "secciones": 0
+      }
+    }
+  },
+  {
+    "codigo_sede": 12,
+    "nombre_sede": "PLAZA OESTE",
+    "jornada": "Diurna",
+    "especialidades": {
+      "1446111": {
+        "inscritos": 25,
+        "secciones": 1
+      },
+      "1446116": {
+        "inscritos": 58,
+        "secciones": 2
+      },
+      "1446117": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446118": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446119": {
+        "inscritos": 0,
+        "secciones": 0
+      }
+    }
+  },
+  {
+    "codigo_sede": 12,
+    "nombre_sede": "PLAZA OESTE",
+    "jornada": "Vespertina",
+    "especialidades": {
+      "1446111": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446116": {
+        "inscritos": 24,
+        "secciones": 1
+      },
+      "1446117": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446118": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446119": {
+        "inscritos": 0,
+        "secciones": 0
+      }
+    }
+  },
+  {
+    "codigo_sede": 13,
+    "nombre_sede": "PUENTE ALTO",
+    "jornada": "Diurna",
+    "especialidades": {
+      "1446111": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446116": {
+        "inscritos": 93,
+        "secciones": 4
+      },
+      "1446117": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446118": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446119": {
+        "inscritos": 0,
+        "secciones": 0
+      }
+    }
+  },
+  {
+    "codigo_sede": 13,
+    "nombre_sede": "PUENTE ALTO",
+    "jornada": "Vespertina",
+    "especialidades": {
+      "1446111": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446116": {
+        "inscritos": 54,
+        "secciones": 2
+      },
+      "1446117": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446118": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446119": {
+        "inscritos": 0,
+        "secciones": 0
+      }
+    }
+  },
+  {
+    "codigo_sede": 14,
+    "nombre_sede": "MAIPÚ",
+    "jornada": "Diurna",
+    "especialidades": {
+      "1446111": {
+        "inscritos": 24,
+        "secciones": 1
+      },
+      "1446116": {
+        "inscritos": 141,
+        "secciones": 5
+      },
+      "1446117": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446118": {
+        "inscritos": 17,
+        "secciones": 1
+      },
+      "1446119": {
+        "inscritos": 0,
+        "secciones": 0
+      }
+    }
+  },
+  {
+    "codigo_sede": 14,
+    "nombre_sede": "MAIPÚ",
+    "jornada": "Vespertina",
+    "especialidades": {
+      "1446111": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446116": {
+        "inscritos": 53,
+        "secciones": 2
+      },
+      "1446117": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446118": {
+        "inscritos": 22,
+        "secciones": 1
+      },
+      "1446119": {
+        "inscritos": 0,
+        "secciones": 0
+      }
+    }
+  },
+  {
+    "codigo_sede": 16,
+    "nombre_sede": "SAN JOAQUIN",
+    "jornada": "Diurna",
+    "especialidades": {
+      "1446111": {
+        "inscritos": 25,
+        "secciones": 1
+      },
+      "1446116": {
+        "inscritos": 74,
+        "secciones": 3
+      },
+      "1446117": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446118": {
+        "inscritos": 33,
+        "secciones": 2
+      },
+      "1446119": {
+        "inscritos": 0,
+        "secciones": 0
+      }
+    }
+  },
+  {
+    "codigo_sede": 16,
+    "nombre_sede": "SAN JOAQUIN",
+    "jornada": "Vespertina",
+    "especialidades": {
+      "1446111": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446116": {
+        "inscritos": 48,
+        "secciones": 2
+      },
+      "1446117": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446118": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446119": {
+        "inscritos": 0,
+        "secciones": 0
+      }
+    }
+  },
+  {
+    "codigo_sede": 18,
+    "nombre_sede": "SAN BERNARDO",
+    "jornada": "Diurna",
+    "especialidades": {
+      "1446111": {
+        "inscritos": 31,
+        "secciones": 2
+      },
+      "1446116": {
+        "inscritos": 86,
+        "secciones": 3
+      },
+      "1446117": {
+        "inscritos": 22,
+        "secciones": 1
+      },
+      "1446118": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446119": {
+        "inscritos": 0,
+        "secciones": 0
+      }
+    }
+  },
+  {
+    "codigo_sede": 18,
+    "nombre_sede": "SAN BERNARDO",
+    "jornada": "Vespertina",
+    "especialidades": {
+      "1446111": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446116": {
+        "inscritos": 18,
+        "secciones": 1
+      },
+      "1446117": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446118": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446119": {
+        "inscritos": 0,
+        "secciones": 0
+      }
+    }
+  },
+  {
+    "codigo_sede": 19,
+    "nombre_sede": "PLAZA NORTE",
+    "jornada": "Diurna",
+    "especialidades": {
+      "1446111": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446116": {
+        "inscritos": 53,
+        "secciones": 2
+      },
+      "1446117": {
+        "inscritos": 26,
+        "secciones": 1
+      },
+      "1446118": {
+        "inscritos": 22,
+        "secciones": 1
+      },
+      "1446119": {
+        "inscritos": 0,
+        "secciones": 0
+      }
+    }
+  },
+  {
+    "codigo_sede": 19,
+    "nombre_sede": "PLAZA NORTE",
+    "jornada": "Vespertina",
+    "especialidades": {
+      "1446111": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446116": {
+        "inscritos": 49,
+        "secciones": 2
+      },
+      "1446117": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446118": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446119": {
+        "inscritos": 0,
+        "secciones": 0
+      }
+    }
+  },
+  {
+    "codigo_sede": 75,
+    "nombre_sede": "MELIPILLA",
+    "jornada": "Diurna",
+    "especialidades": {
+      "1446111": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446116": {
+        "inscritos": 34,
+        "secciones": 2
+      },
+      "1446117": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446118": {
+        "inscritos": 21,
+        "secciones": 1
+      },
+      "1446119": {
+        "inscritos": 18,
+        "secciones": 1
+      }
+    }
+  },
+  {
+    "codigo_sede": 75,
+    "nombre_sede": "MELIPILLA",
+    "jornada": "Vespertina",
+    "especialidades": {
+      "1446111": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446116": {
+        "inscritos": 20,
+        "secciones": 1
+      },
+      "1446117": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446118": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446119": {
+        "inscritos": 0,
+        "secciones": 0
+      }
+    }
+  },
+  {
+    "codigo_sede": 76,
+    "nombre_sede": "PUERTO MONTT",
+    "jornada": "Diurna",
+    "especialidades": {
+      "1446111": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446116": {
+        "inscritos": 60,
+        "secciones": 2
+      },
+      "1446117": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446118": {
+        "inscritos": 28,
+        "secciones": 1
+      },
+      "1446119": {
+        "inscritos": 0,
+        "secciones": 0
+      }
+    }
+  },
+  {
+    "codigo_sede": 76,
+    "nombre_sede": "PUERTO MONTT",
+    "jornada": "Vespertina",
+    "especialidades": {
+      "1446111": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446116": {
+        "inscritos": 18,
+        "secciones": 1
+      },
+      "1446117": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446118": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446119": {
+        "inscritos": 0,
+        "secciones": 0
+      }
+    }
+  },
+  {
+    "codigo_sede": 79,
+    "nombre_sede": "PADRE ALONSO DE OVALLE",
+    "jornada": "Diurna",
+    "especialidades": {
+      "1446111": {
+        "inscritos": 30,
+        "secciones": 1
+      },
+      "1446116": {
+        "inscritos": 74,
+        "secciones": 3
+      },
+      "1446117": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446118": {
+        "inscritos": 25,
+        "secciones": 1
+      },
+      "1446119": {
+        "inscritos": 0,
+        "secciones": 0
+      }
+    }
+  },
+  {
+    "codigo_sede": 79,
+    "nombre_sede": "PADRE ALONSO DE OVALLE",
+    "jornada": "Vespertina",
+    "especialidades": {
+      "1446111": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446116": {
+        "inscritos": 27,
+        "secciones": 1
+      },
+      "1446117": {
+        "inscritos": 0,
+        "secciones": 0
+      },
+      "1446118": {
+        "inscritos": 16,
+        "secciones": 1
+      },
+      "1446119": {
+        "inscritos": 0,
+        "secciones": 0
+      }
+    }
+  }
+]
